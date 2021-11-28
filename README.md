@@ -1,2 +1,2 @@
-# The-Tiger
-"The Tiger" is My personal portfolio website
+# Portfolio
+It's My personal portfolio website
